@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Cojocaru Andrei Tiberius
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me https://www.linkedin.com/in/andrei-tiberius-cojocaru-8a731323b/
+- 📫 How to reach me https://www.linkedin.com/in/andrei-tiberius-cojocaru
